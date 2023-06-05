@@ -8,3 +8,11 @@ aquires how many votes.
 Metamask is important for this project make sure to use Ganache to create sample blockchain and then import account addresses to make transactions.
 Conditions will only meet when the transactions are being completed.
 Use XAMPP for mysql
+
+
+https://github.com/aryabagde/blockvote/assets/69676190/3adb703e-20a2-4c12-b7b7-7a8c9a488d53
+
+
+
+https://github.com/aryabagde/blockvote/assets/69676190/a597ccd7-4710-4b5d-8077-3f37064ab1f6
+
