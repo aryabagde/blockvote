@@ -7,7 +7,7 @@ Speciality of this project is no votes are being stored in the database rather v
 aquires how many votes.
 Metamask is important for this project make sure to use Ganache to create sample blockchain and then import account addresses to make transactions.
 Conditions will only meet when the transactions are being completed.
-Use XAMPP for mysql
+Use XAMPP for mysql(phpadmin).
 
 
 https://github.com/aryabagde/blockvote/assets/69676190/3adb703e-20a2-4c12-b7b7-7a8c9a488d53
